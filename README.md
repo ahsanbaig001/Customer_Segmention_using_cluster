@@ -1,0 +1,1 @@
+This project applies unsupervised learning to perform customer segmentation using clustering techniques. After preprocessing and feature scaling, algorithms like K-Means and DBSCAN group customers based on behavior and spending patterns. Results help businesses improve marketing, personalization, and customer retention strategies.
